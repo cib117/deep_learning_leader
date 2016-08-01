@@ -12,3 +12,7 @@ This repository contains code for the project my ongoing project exploring the u
 `plots/`: Contains figures
 
 `poster/`: Contains poster presented at the 2016  Annual Meeting of the Society for Political Methodology
+
+<img src='plots/pr_curve.png'>
+
+<img src='plots/NNboundary.png'>
