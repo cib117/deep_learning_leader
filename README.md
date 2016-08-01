@@ -11,4 +11,4 @@ This repository contains code for the project my ongoing project exploring the u
 
 `plots/`: Contains figures
 
-`slides/`: Contains poster presented at the 2016  Annual Meeting of the Society for Political Methodology
+`poster/`: Contains poster presented at the 2016  Annual Meeting of the Society for Political Methodology
