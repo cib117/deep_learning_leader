@@ -1,7 +1,7 @@
 # Deep Learning Leader
 
 ## About
-This repository contains code for the project my ongoing project exploring the usefulness of modern, `deep', neural networks for forecasting political instability.
+This repository contains code for the project my ongoing project exploring the usefulness of modern, `deep', neural networks for forecasting political instability. I still need to do more work related to interpretability (e.g. variable importance and partial dependence plots) and explore different hyper parameter settings for networks more than 1 hidden layer.
 ### Content
 `R/`: Contains code for different models and plots
 
